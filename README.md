@@ -1,137 +1,187 @@
 <h1 align="center">Hi 👋, I'm Abhay Yadav</h1>
-<h3 align="center">Data Analyst | BCA (Artificial Intelligence) Student | Turning Data into Business Insights</h3>
+
+<h3 align="center">
+Data Analyst | SQL • Python • Power BI • Excel
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Cleaning+%26+EDA;Business+Intelligence+Enthusiast;Building+Data-Driven+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Cleaning+%7C+EDA+%7C+Dashboard+Development;Business+Intelligence+Enthusiast;Turning+Raw+Data+into+Actionable+Insights" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Final-year **BCA (Artificial Intelligence)** student.
-- 📊 Passionate about **Data Analytics, Business Intelligence, and Data Visualization**.
-- 🧹 Skilled in transforming raw datasets through **Data Cleaning, SQL Analysis, and Exploratory Data Analysis (EDA)**.
-- 📈 Enjoy building **interactive Power BI dashboards** that solve real business problems.
-- 🌱 Currently expanding my knowledge in **Machine Learning for Predictive Analytics**.
-- 🎯 Goal: Become a **Data Analyst** and build data-driven solutions that create business impact.
+🎓 Final-year **BCA (Artificial Intelligence)** student.
+
+📊 Passionate about solving business problems using **Data Analytics**.
+
+💻 Skilled in **SQL, Python, Power BI, Excel, Pandas and Data Visualization**.
+
+📈 Experienced in **Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Development and KPI Reporting.**
+
+🚀 Currently building **end-to-end analytics projects** using SQL, Python and Power BI.
+
+🎯 Goal: Become a **Data Analyst** and build impactful data-driven solutions.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Programming & Databases
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" />
 </p>
 
-### Analytics Tools
+### Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 ---
 
-## 📚 Core Skills
+# 📚 Core Skills
 
-- 📊 Data Analysis
-- 🧹 Data Cleaning
-- 📈 Exploratory Data Analysis (EDA)
-- 📉 Data Visualization
-- 📋 Dashboard Development
-- 📌 KPI Reporting
-- 🗄 SQL (Joins, Window Functions, CTEs, Subqueries)
-- ⚡ Power BI (DAX, Power Query, Data Modeling)
-- 📑 Excel (Pivot Tables, XLOOKUP, INDEX-MATCH)
-
----
-
-## 🚀 Featured Projects
-
-📊 **Banking Customer & Transaction Analysis**
-- SQL, Python, Power BI
-- Customer segmentation and transaction analysis
-- Interactive KPI dashboards
-
-📉 **Customer Churn & Retention Analysis**
-- Python, SQL, Pandas, Power BI
-- Customer segmentation
-- Churn prediction
-- Retention dashboard
-
-🛒 **Retail Sales & Business Performance Dashboard**
-- SQL, Excel, Power BI
-- Sales performance analysis
-- Regional revenue insights
-- Executive dashboard
+- SQL
+- Python
+- Power BI
+- Excel
+- Pandas
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- KPI Reporting
+- DAX
+- Power Query
+- Window Functions
+- Data Modeling
 
 ---
 
-## 📜 Certifications
+# 🚀 Featured Projects
 
-🏅 SQL (Intermediate) – HackerRank
+### 🏦 Banking Customer & Transaction Analysis
 
-🏅 Data Science & Analytics – HP LIFE
+✔ Customer Segmentation
 
-🏅 Intermediate Machine Learning – Kaggle
+✔ SQL Analytics
 
-🏅 Bharatiya Antariksh Hackathon 2026 Participant
+✔ Interactive Power BI Dashboard
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/i-abhay/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://i-abhayydav.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome" />
-  </a>
-
-  <a href="YOUR_RESUME_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-red?style=for-the-badge&logo=readthedocs" />
-  </a>
-</p>
+✔ Revenue Insights
 
 ---
 
-## 📈 GitHub Analytics
+### 📉 Customer Churn & Retention Analysis
+
+✔ Churn Prediction
+
+✔ Customer Segmentation
+
+✔ SQL + Pandas Analysis
+
+✔ Retention Dashboard
+
+---
+
+### 🛒 Retail Sales & Business Performance Dashboard
+
+✔ Sales Analysis
+
+✔ KPI Dashboard
+
+✔ Regional Performance
+
+✔ Profit Analysis
+
+---
+
+# 🏅 Certifications
+
+🏆 SQL (Intermediate) – HackerRank
+
+🏆 Data Science & Analytics – HP LIFE
+
+🏆 Intermediate Machine Learning – Kaggle
+
+🏆 Bharatiya Antariksh Hackathon 2026
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-abhayy&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-abhayy&theme=tokyonight" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=i-abhayy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=i-abhayy&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-abhayy&layout=compact&theme=tokyonight" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-abhayy&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 💡 Currently Working On
+# 📌 Current Focus
 
-- 📊 Customer Churn Prediction
-- 📈 End-to-End Data Analytics Projects
-- 📉 Advanced Power BI Dashboards
-- 🗄 Advanced SQL Case Studies
-- 🤖 Predictive Analytics with Python
+📊 Customer Churn Prediction
+
+📈 Advanced SQL
+
+📉 Power BI Dashboard Development
+
+🐍 Python for Data Analytics
+
+📚 Machine Learning for Predictive Analytics
 
 ---
 
-## ✨ Motto
+# 🌐 Connect With Me
 
-> **"Turning raw data into meaningful insights."**
+<p>
+
+<a href="https://www.linkedin.com/in/i-abhay/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://i-abhayydav.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-success?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=readthedocs"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Turning data into decisions, one dashboard at a time."**
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Let's build data-driven solutions together.
+
+⭐ If you like my work, consider starring my repositories!
+
 </p>
