@@ -1,140 +1,114 @@
-<h1 align="center">Hi 👋, I'm Abhay Yadav</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst | SQL • Python • Power BI • Excel
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:8B0000,100:1a1aff&height=280&section=header&text=YOUR%20NAME&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web-Slinger%20%7C%20Full-Stack%20Developer%20%7C%20Friendly%20Neighborhood%20Coder&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Cleaning+%7C+EDA+%7C+Dashboard+Development;Business+Intelligence+Enthusiast;Turning+Raw+Data+into+Actionable+Insights" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=32&duration=2500&pause=800&color=E62429&center=true&vCenter=true&width=650&height=70&lines=With+great+power...;...comes+great+commitology;Spinning+webs+of+code+since+day+one;Welcome+to+my+web%2C+Spidey-fan!" alt="Typing SVG" />
 
----
+</div>
 
-# 👨‍💻 About Me
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
 
-🎓 Final-year **BCA (Artificial Intelligence)** student.
+<div align="center">
 
-📊 Passionate about solving business problems using **Data Analytics**.
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=e62429&style=for-the-badge&label=WEB+VIEWS)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=e62429)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1a1aff)](https://linkedin.com/in/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=e62429)](https://your-portfolio.com)
 
-💻 Skilled in **SQL, Python, Power BI, Excel, Pandas and Data Visualization**.
-
-📈 Experienced in **Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Development and KPI Reporting.**
-
-🚀 Currently building **end-to-end analytics projects** using SQL, Python and Power BI.
-
-🎯 Goal: Become a **Data Analyst** and build impactful data-driven solutions.
+</div>
 
 ---
 
-# 🛠 Tech Stack
+### 🕸️ `whoami`
 
-### Languages
+```yaml
+name: "Your Name"
+alias: "The Friendly Neighborhood Dev"
+origin_story: "Bitten by a radioactive bug (in production, on a Friday)"
+current_mission: "Building things that don't crash (mostly)"
+weakness: "Merge conflicts & undocumented code"
+motto: "With great power comes great responsibility... to write tests"
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" />
-</p>
-
-### Analytics
-
-<p>
-
-<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
+<div align="center">
+<img src="https://media.giphy.com/media/g0QCbmTVj0hZG/giphy.gif" width="420" style="border-radius: 12px; border: 3px solid #e62429;"/>
+</div>
 
 ---
 
-# 📚 Core Skills
+### 🔴🔵 Web-Shooter Loadout (Tech Stack)
 
-- SQL
-- Python
-- Power BI
-- Excel
-- Pandas
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- KPI Reporting
-- DAX
-- Power Query
-- Window Functions
-- Data Modeling
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=e62429)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
+</div>
 
 ---
 
-# 📈 GitHub Stats
+### 📊 Daily Bugle Stats
 
-<p align="center">
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=red&hide_border=true&bg_color=0d0d0d&title_color=e62429&icon_color=1a1aff&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=red&hide_border=true&bg_color=0d0d0d&title_color=e62429&text_color=ffffff"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=i-abhayy&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=red&hide_border=true&background=0D0D0D&ring=E62429&fire=1A1AFF&currStreakLabel=E62429" />
+</div>
 
-<img height="170" src="https://streak-stats.demolab.com?user=i-abhayy&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-abhayy&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📌 Current Focus
-
-📊 Customer Churn Prediction
-
-📈 Advanced SQL
-
-📉 Power BI Dashboard Development
-
-🐍 Python for Data Analytics
-
-📚 Machine Learning for Predictive Analytics
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true&bg_color=0D0D0D&color=E62429&line=1A1AFF&point=FFFFFF" width="95%"/>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+### 🕷️ Trophy Case (Achievements)
 
-<p>
-
-<a href="https://www.linkedin.com/in/i-abhay/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://i-abhayydav.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-success?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=readthedocs"/>
-</a>
-
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" />
+</div>
 
 ---
 
-# 💬 Quote
+### 🌆 Swinging Through GitHub (Contribution Snake)
 
-> **"Turning data into decisions, one dashboard at a time."**
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> To activate this: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates a snake eating your contribution graph on every push.
 
 ---
 
-<p align="center">
+### 🎯 Current Missions
 
-⭐ If you like my work, consider starring my repositories!
+```diff
++ Building a full-stack app that (hopefully) doesn't need a rewrite
++ Contributing to open source, one PR at a time
+! Learning Rust because Peter Parker would probably learn Rust too
+- Fixing that one bug that's been open since issue #1
+```
 
-</p>
+---
+
+<div align="center">
+
+### 💬 "It's not who I am underneath, but what I `git commit` that defines me."
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1aff,50:8B0000,100:0d0d0d&height=150&section=footer&animation=twinkling" width="100%"/>
+
+![Snoopy](https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/2.gif)
+
+**Thanks for swinging by! ⚡🕸️**
+
+</div>
